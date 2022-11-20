@@ -1,0 +1,27 @@
+
+
+
+anc{
+margin-left: 10px;
+
+}
+.btn{
+    transition-duration: 0.4s;
+    border-radius: 3px;
+    margin:10px 8px;
+    background-color: #14161a; /* Green */
+    border: 10px;
+    color: gold;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: Montserrat;
+    font-weight: bolder;
+}
+.btn:hover{
+    background-color:gold; /* Green */
+    color: black;
+    border-color: gold;
+}
